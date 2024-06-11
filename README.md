@@ -16,3 +16,4 @@ In this project using 9 data sets .csv files
   Recommendations focused on optimizing marketing strategies, enhancing customer retention, and streamlining logistics.
    The analysis provided actionable steps to drive growth and improve overall performance.
   The project deliverables included a detailed report, an interactive dashboard, and a presentation summarizing the findings.
+  
